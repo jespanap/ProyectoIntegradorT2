@@ -1,0 +1,17 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+myenv/
+
+# Archivos de Django
+db.sqlite3
+.env
+media/
+
+# Configuración de VSCode
+.vscode/
